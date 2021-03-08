@@ -7,5 +7,7 @@
 [Ejercicios Basicos de Python](https://github.com/DanielAlsina/Mineria-de-datos-003/blob/main/Ej_Python_1860749.ipynb)
 
 [Práctica de limpieza de datos](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo11.ipynb)
+
+[Primera entrega del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Avance1_PIA_Equipo11.ipynb)
 ## Fase II
 ## Fase III
