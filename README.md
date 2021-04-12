@@ -15,4 +15,8 @@
 [Mini exámenes de técnica](https://github.com/sebascuriel18/MineriaDatos/blob/main/Calificacion_Deteccion-de-outliers_Equipo_11.pdf)
 
 [Mapa Mental II](https://github.com/DanielAlsina/Mineria-de-datos-003/blob/main/MapaMental_2_1860749.pdf)
+
+[Práctica de visualización]()
+
+[Segundo avance del PIA]()
 ## Fase III
