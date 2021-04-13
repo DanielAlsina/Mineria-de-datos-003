@@ -16,7 +16,7 @@
 
 [Mapa Mental II](https://github.com/DanielAlsina/Mineria-de-datos-003/blob/main/MapaMental_2_1860749.pdf)
 
-[Práctica de visualización]()
+[Práctica de visualización](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Visualizacion_Equipo11.ipynb)
 
 [Segundo avance del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo_003_11.ipynb)
 ## Fase III
