@@ -19,4 +19,6 @@
 [Práctica de visualización](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Visualizacion_Equipo11.ipynb)
 
 [Segundo avance del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo_003_11.ipynb)
+
+[Segundo avance del PIA (Corregido)](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_2.0_II_Grupo_003_11.ipynb)
 ## Fase III
